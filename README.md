@@ -168,7 +168,7 @@ curl -H "X-API-Key: demo-key-1" \
 Visit the following URLs when the server is running:
 
 - **Swagger UI**: http://localhost:8000/docs
-- **ReDoc**: http://localhost:8000/redoc
+
 
 These provide interactive API documentation where you can test endpoints directly.
 
